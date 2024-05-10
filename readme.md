@@ -10,6 +10,10 @@ you will need thonny to run and upload your python code. get it [here](https://t
 
 code examples can be found in the ["code"](/code) directory.
 
+### basics.py
+
+This code teaches the basics of python programming including variables, if-statements and loops. Try this first!
+
 ### servo.py
 
 This code demonstrates how to control an SG90 servo motor using a Raspberry Pi Pico. It utilizes the Servo library to simplify the servo control process. The code continuously rotates the servo between 0° and 90° positions with a short delay in between, providing a basic example of servo motor control.
