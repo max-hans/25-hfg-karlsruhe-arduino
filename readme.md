@@ -1,5 +1,11 @@
 # pi pico examples
 
+## introduction
+
+you will need thonny to run and upload your python code. get it [here](https://thonny.org/).
+
+![](resources/thonny.png)
+
 ## code examples
 
 code examples can be found in the ["code"](/code) directory.
