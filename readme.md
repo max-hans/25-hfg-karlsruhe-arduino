@@ -42,7 +42,9 @@ Contains important code resources. Do not touch!
 
 ![](https://www.raspberrypi.com/documentation/microcontrollers/images/pico-pinout.svg)
 
-> **Make sure the pi pico is placed on the breadboard like below** > ![](resources/breadboard.jpg)
+**⚠️ Make sure the pi pico is placed on the breadboard like below ⚠️**
+
+![](resources/breadboard.jpg)
 
 ### single servo
 
