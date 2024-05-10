@@ -1,4 +1,5 @@
-from machine import Pin, PWM
+from machine import Pin, time_pulse_us, PWM
+from utime import sleep_us
 
 class Servo:
     __servo_pwm_freq = 50
@@ -43,8 +44,7 @@ class Servo:
         self.__motor = PWM(Pin(pin))
         self.__motor.freq(self.__servo_pwm_freq)
 
-from machine import Pin, time_pulse_us
-from utime import sleep_us
+
 
 
 class HCSR04:
