@@ -5,7 +5,11 @@ led = Pin(16, Pin.OUT)
 blinky = Blinky(led)
 blinky.start(100)
 
+a = 0
 
-
-while True:
+while a < 30000:
     blinky.update()
+    a = a + 1
+
+print("done!")
+
