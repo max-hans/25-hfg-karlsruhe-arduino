@@ -15,6 +15,8 @@ print("Alice is " + str(age) + " years old.")
 # Task: Create a variable called "favorite_color" and assign your favorite color to it.
 # Then, print a sentence using the variable.
 
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
 # If Statements
 # If statements are used to execute code based on a condition
 # The code inside the if block will only run if the condition is True
@@ -35,6 +37,8 @@ else:
 
 # Task: Create a variable called "score" and assign a number to it.
 # Write an if statement that prints "You passed!" if the score is greater than or equal to 60.
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 # While Loops
 # While loops are used to repeatedly execute a block of code as long as a condition is True
@@ -63,6 +67,8 @@ while guess != secret_number:
 print("Congratulations! You guessed the secret number.")
 
 # Task: Write a while loop that prints the even numbers from 0 to 10.
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 # For Loops
 # For loops are used to iterate over a sequence (such as a list or string)
