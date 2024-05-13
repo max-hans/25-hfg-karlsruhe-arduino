@@ -1,5 +1,5 @@
 from machine import Pin, time_pulse_us, PWM
-from utime import sleep_us
+from utime import sleep_us, ticks_ms, ticks_diff
 
 class Servo:
     __servo_pwm_freq = 50
@@ -122,3 +122,35 @@ class HCSR04:
         # 0.034320 cm/us that is 1cm each 29.1us
         cms = (pulse_time / 2) / 29.1
         return cms
+    
+
+class Blinky:
+    def __init__(self, pin):
+        self.pin = pin
+        self.pin.init(self.pin.OUT)
+        self.interval = 0
+        self.last_update = 0
+        self.state = False
+        self.running = False
+
+    def start(self, interval):
+        self.interval = interval
+        self.last_update = ticks_ms()
+        self.state = False
+        self.pin.value(self.state)
+        self.running = True
+
+    def stop(self):
+        self.running = False
+        self.pin.value(False)
+
+    def change_frequency(self, new_interval):
+        self.interval = new_interval
+
+    def update(self):
+        if self.running:
+            current_time = ticks_ms()
+            if ticks_diff(current_time, self.last_update) >= self.interval:
+                self.state = not self.state
+                self.pin.value(self.state)
+                self.last_update = current_time
