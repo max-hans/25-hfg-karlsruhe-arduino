@@ -68,6 +68,8 @@ Contains important code resources. Do not touch!
 
 ![](resources/breadboard.jpg)
 
+![](resources/power.png)
+
 ### single servo
 
 ![](resources/single-servo.png)
