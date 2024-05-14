@@ -66,9 +66,7 @@ Contains important code resources. Do not touch!
 
 **⚠️ Make sure the pi pico is placed on the breadboard like below ⚠️**
 
-![](resources/breadboard.jpg)
-
-![](resources/power.png)
+![](resources/breadboard.png)
 
 ### single servo
 
