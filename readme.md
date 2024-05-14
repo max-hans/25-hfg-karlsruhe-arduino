@@ -1,5 +1,11 @@
 # pi pico examples
 
+## presentations
+
+[-> intro presentation](https://www.dropbox.com/scl/fi/6ntdqi58efld07rg5lvlu/1-intro.pdf?rlkey=u5vwwhn9kwhyzg89bzcil9qa6&st=lieinw5f&dl=0)
+
+[-> inspiration interaction](https://www.dropbox.com/scl/fi/xgfonxzcsrou7xxt9kh1i/2-inspiration.pdf?rlkey=f8lg94x4h11dfo6lbnh6wdk4b&st=gijpmgby&dl=0)
+
 ## introduction
 
 you will need thonny to run and upload your python code. get it [here](https://thonny.org/).
