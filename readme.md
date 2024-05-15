@@ -4,9 +4,9 @@ all the project files can be found here -> [dropbox.com](https://www.dropbox.com
 
 ## presentations
 
-[-> intro presentation](https://www.dropbox.com/scl/fi/6ntdqi58efld07rg5lvlu/1-intro.pdf?rlkey=u5vwwhn9kwhyzg89bzcil9qa6&st=lieinw5f&dl=0)
+[-> intro presentation]([https://www.dropbox.com/scl/fi/6ntdqi58efld07rg5lvlu/1-intro.pdf?rlkey=u5vwwhn9kwhyzg89bzcil9qa6&st=lieinw5f&dl=0](https://www.dropbox.com/scl/fi/6ntdqi58efld07rg5lvlu/1-intro.pdf?rlkey=u5vwwhn9kwhyzg89bzcil9qa6&st=tgg3snn3&dl=0))
 
-[-> inspiration interaction](https://www.dropbox.com/scl/fi/xgfonxzcsrou7xxt9kh1i/2-inspiration.pdf?rlkey=f8lg94x4h11dfo6lbnh6wdk4b&st=gijpmgby&dl=0)
+[-> inspiration interaction]([https://www.dropbox.com/scl/fi/xgfonxzcsrou7xxt9kh1i/2-inspiration.pdf?rlkey=f8lg94x4h11dfo6lbnh6wdk4b&st=gijpmgby&dl=0](https://www.dropbox.com/scl/fi/xgfonxzcsrou7xxt9kh1i/2-inspiration.pdf?rlkey=f8lg94x4h11dfo6lbnh6wdk4b&st=7z0ozq2j&dl=0))
 
 ## introduction
 
