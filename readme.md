@@ -1,10 +1,12 @@
 # pi pico examples
 
+all the project files can be found here -> [dropbox.com](https://www.dropbox.com/scl/fo/zu66jizje0ze2g21ary7w/AI1_X_uoX6rZ8rA7J_YPoxM?rlkey=wvhrg3wvdckzbqgg1zwdmody5&st=7a3ufhde&dl=0)
+
 ## presentations
 
-[-> intro presentation](https://www.dropbox.com/scl/fi/6ntdqi58efld07rg5lvlu/1-intro.pdf?rlkey=u5vwwhn9kwhyzg89bzcil9qa6&st=lieinw5f&dl=0)
+[-> intro presentation]([https://www.dropbox.com/scl/fi/6ntdqi58efld07rg5lvlu/1-intro.pdf?rlkey=u5vwwhn9kwhyzg89bzcil9qa6&st=lieinw5f&dl=0](https://www.dropbox.com/scl/fi/6ntdqi58efld07rg5lvlu/1-intro.pdf?rlkey=u5vwwhn9kwhyzg89bzcil9qa6&st=tgg3snn3&dl=0))
 
-[-> inspiration interaction](https://www.dropbox.com/scl/fi/xgfonxzcsrou7xxt9kh1i/2-inspiration.pdf?rlkey=f8lg94x4h11dfo6lbnh6wdk4b&st=gijpmgby&dl=0)
+[-> inspiration interaction]([https://www.dropbox.com/scl/fi/xgfonxzcsrou7xxt9kh1i/2-inspiration.pdf?rlkey=f8lg94x4h11dfo6lbnh6wdk4b&st=gijpmgby&dl=0](https://www.dropbox.com/scl/fi/xgfonxzcsrou7xxt9kh1i/2-inspiration.pdf?rlkey=f8lg94x4h11dfo6lbnh6wdk4b&st=7z0ozq2j&dl=0))
 
 ## introduction
 
