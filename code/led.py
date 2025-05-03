@@ -1,7 +1,8 @@
 from machine import Pin
 from time import sleep
 
-led = Pin(16, Pin.OUT)
+# the onboard led is located at pin 25
+led = Pin(13, Pin.OUT)
 
 while True:
     led.value(1)

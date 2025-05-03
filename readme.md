@@ -8,9 +8,17 @@
 
 ## introduction
 
+### thonny
+
 you will need thonny to run and upload your python code. get it [here](https://thonny.org/).
 
 ![](resources/thonny.png)
+
+### download the contents of this repository
+
+## python basics
+
+you can find a list of examples and descriptions on how python code actually works [here](/python.md)
 
 ## code examples
 
@@ -68,7 +76,7 @@ Contains important code resources. Do not touch!
 
 ### pinout pi pico
 
-![](https://www.raspberrypi.com/documentation/microcontrollers/images/pico-pinout.svg)
+![](/resources/pico-pinout.svg)
 
 **⚠️ Make sure the pi pico is placed on the breadboard like below ⚠️**
 

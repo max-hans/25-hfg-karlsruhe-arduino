@@ -4,9 +4,9 @@ import time
 from library import Servo
 
 # Create an instance of the Servo class for the first servo, specifying the pin number
-servo1 = Servo(pin=28)  #To be changed according to the pin used
+servo1 = Servo(pin=28)  # To be changed according to the pin used
 # Create an instance of the Servo class for the second servo, specifying the pin number
-servo2 = Servo(pin=27)  #To be changed according to the pin used
+servo2 = Servo(pin=27)  # To be changed according to the pin used
 
 # Start an infinite loop
 while True:
