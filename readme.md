@@ -13,6 +13,8 @@ Contact: main@i-like-robots.com
 - <a href="https://raw.githubusercontent.com/max-hans/25-hfg-karlsruhe-arduino/refs/heads/main/resources/1-intro.pdf" class="image fit">01-intro</a>
 - <a href="https://raw.githubusercontent.com/max-hans/25-hfg-karlsruhe-arduino/refs/heads/main/resources/2-inspiration.pdf" class="image fit">02-inspiration</a>
 - <a href="https://github.com/max-hans/25-hfg-karlsruhe-arduino/archive/refs/heads/main.zip">Download all files</a>
+- [MicroPython Reference](https://docs.micropython.org/en/latest/rp2/quickref.html)
+
 ## Introduction
 
 ### Thonny
