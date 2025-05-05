@@ -291,6 +291,13 @@ for fruit in fruits:
 # orange
 ```
 
+### Example 4
+
+```python
+for i in range(10):
+    print("hello")
+```
+
 ### Task 2
 
 Create a list called "led_pins" with the values [9, 10, 11]. Use a for loop to simulate turning on each LED by printing "LED on pin {pin} is now ON".
