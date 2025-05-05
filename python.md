@@ -363,3 +363,27 @@ Create a program that analyzes simulated sensor data:
 - Keep count of readings in each category
 - After processing all readings, calculate and print the average value of all readings
 - Use an if statement to provide a final system status: "System OK" if no DANGER readings, otherwise "System Failure"
+
+## Interesting Stuff
+
+### Random values
+
+You can generate random values to use in your program. These always range from 0 to 1.
+Anything beyond that needs to be done by you by multiplication etc.
+
+```python
+import random
+
+
+while True:
+    variable = random.random() * 100
+
+    if variable < 10:
+        print("low")
+    elif variable < 50:
+        print("medium")
+    elif variable < 80:
+        print("medium2")
+    else:
+        print("high")
+```
