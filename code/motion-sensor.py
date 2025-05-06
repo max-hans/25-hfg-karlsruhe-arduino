@@ -6,7 +6,7 @@ sensor = Pin(15,Pin.IN)
 while True:
     value = sensor.value()
     print(value)
-    if(value):    
+    if value == 1:    
         led.value(1)
     else:
         led.value(0)
