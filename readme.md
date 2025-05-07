@@ -119,6 +119,11 @@ When using ChatGPT or other GenAi to work on your code, integrate the following 
 
 ```
 <context>
-we are using microphyton. make the code as easy as possible. dont use fancy python functionality. dont use defs/functions, consts, type annotations, records or array. the code should be verbose without making things too complex. dont add extraneous comments. the code should explain itself.
+we are using microphyton on a pi pico. make the code as simple as possible.
+dont use any fancy python functionality. dont use defs/functions, consts, type annotations, records or array.
+dont rewrite the code from ground up.
+use only the libraries: "time" and "machine".
+the code should be verbose without making things too complex. dont add extraneous comments. the code should explain itself.
+if something is unclear (pins, timeframes etc) – ask before creating the code.
 </context>
 ```
