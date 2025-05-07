@@ -230,7 +230,7 @@ print("Blast off!")
 
 Write a while loop that simulates waiting for a sensor to reach a threshold. Start with "sensor_reading = 15" and increment it by 5 each iteration. Continue until the reading is at least 50, printing the value each time.
 
-### Task 4
+### IGNORE: Task 4
 
 Create a variable called "password_attempt" and set it to "". Inside a while loop, check if password_attempt equals "secret". If not, set password_attempt to "secret" (simulating a user entering the correct password) and continue the loop. Once the correct password is entered, print "Access granted!" and exit the loop.
 
@@ -289,6 +289,13 @@ for fruit in fruits:
 # apple
 # banana
 # orange
+```
+
+### Example 4
+
+```python
+for i in range(10):
+    print("hello")
 ```
 
 ### Task 2

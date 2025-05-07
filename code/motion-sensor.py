@@ -8,11 +8,10 @@ while True:
     
     value = sensor.value()
     print(value)
-    
-    if(value):    
+    if value == 1:    
         led.value(1)
     else:
         led.value(0)
+    sleep(0.1)
 
-sleep(0.1)
 
