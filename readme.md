@@ -130,3 +130,43 @@ The pi pico has 28 GPIO pins going from GP0 to GP28. GP23-GP25 are NOT available
 GP26, GP27 and GP28 can also be used as ADC.
 </context>
 ```
+
+### Example prompt
+
+---
+
+```
+<context>
+we are using microphyton on a pi pico. make the code as simple as possible.
+dont use any fancy python functionality. dont use defs/functions, consts, type annotations, records or array.
+dont rewrite the code from ground up.
+use only the libraries: "time" and "machine".
+the code should be verbose without making things too complex. dont add extraneous comments. the code should explain itself.
+if something is unclear (pins, timeframes etc) – ask before creating the code.
+</context>
+```
+
+add a second led, if the value is 1 the first one should light up, if not the second led should light up.
+
+current code:
+
+```
+from machine import Pin
+from time import sleep
+
+led = Pin(25, Pin.OUT)
+sensor = Pin(15,Pin.IN)
+
+while True:
+
+    value = sensor.value()
+    print(value)
+    if value == 1:
+        led.value(1)
+    else:
+        led.value(0)
+    sleep(0.1)
+
+```
+
+---
