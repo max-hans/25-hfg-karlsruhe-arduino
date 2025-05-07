@@ -112,3 +112,13 @@ Contains important code resources. Do not touch!
 ### Light Sensor
 
 ![](resources/sensor.png)
+
+## Prompting
+
+When using ChatGPT or other GenAi to work on your code, integrate the following in your prompt:
+
+```
+<context>
+we are using microphyton. make the code as easy as possible. dont use fancy python functionality. dont use defs/functions, consts, type annotations, records or array. the code should be verbose without making things too complex. dont add extraneous comments. the code should explain itself.
+</context>
+```
