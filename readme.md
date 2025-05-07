@@ -125,5 +125,8 @@ dont rewrite the code from ground up.
 use only the libraries: "time" and "machine".
 the code should be verbose without making things too complex. dont add extraneous comments. the code should explain itself.
 if something is unclear (pins, timeframes etc) – ask before creating the code.
+
+The pi pico has 28 GPIO pins going from GP0 to GP28. GP23-GP25 are NOT available.
+GP26, GP27 and GP28 can also be used as ADC.
 </context>
 ```
